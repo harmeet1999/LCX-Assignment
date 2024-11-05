@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+
+# Flask
+instance/
+.webassets-cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment Variables
+.env
+
+# SQLite database
+*.db
+
+# Miscellaneous
+*.log
+*.pot
+*.pyc
+*.pdb
+*.sqlite3
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Coverage files
+.coverage
+coverage.xml
+htmlcov/
